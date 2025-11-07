@@ -3,3 +3,4 @@ spring:
     name: SpringBootConfigImplDemo
 
 msg: Welcome to java full stack batch
+
