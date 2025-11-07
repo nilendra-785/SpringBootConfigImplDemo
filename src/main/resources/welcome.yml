@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: SpringBootConfigImplDemo
+
+msg: Welcome to java full stack batch
+
+
+
